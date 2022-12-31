@@ -1,5 +1,6 @@
 import { Meta } from '@/layouts/Meta';
 import { Main } from '@/templates/Main';
+// @ts-ignore
 import Player from './player';
 
 const About = () => (
